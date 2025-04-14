@@ -6,7 +6,7 @@ This repository implements a Vision Transformer (ViT) for image classification, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/vit-project.git
+   git clone https://github.com/saurabhsensai/ViT-From-Scratch.git
    cd vit-project
 
 2. Install dependencies:
