@@ -1,7 +1,22 @@
-Vit From Scratch
+# Vision Transformer (ViT) Project
+
+This repository implements a Vision Transformer (ViT) for image classification, trained on CIFAR-10. The code is modularized for production use and includes visualization tools for patches, embeddings, and attention maps.
+
+## Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/vit-project.git
+   cd vit-project
+
+2. Install dependencies:
+
+    ```bash 
+    pip install -r requirements.txt
+
+3. Train the model:
+    ```bash
+    python scripts/train.py
 
 
-
-
-
-
+You can update the according to your needs and datasets just update the `vit/dataset.py` acccording to your needs. 

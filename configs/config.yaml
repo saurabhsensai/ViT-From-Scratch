@@ -1,0 +1,11 @@
+data_dir: './data'
+image_size: 224
+batch_size: 16
+num_workers: 4
+num_classes: 10
+patch_size: 16
+embed_dim: 768
+num_heads: 12
+num_layers: 6
+learning_rate: 0.0003
+num_epochs: 10
